@@ -1,0 +1,17 @@
+.flex-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+.flex-content {
+    text-align: center;
+}
+
+.logo {
+    width: 11px; /* Ajusta el tamaño del logo */
+    margin-bottom: 20px; /* Espacio debajo del logo */
+
+}
